@@ -1,0 +1,11 @@
+Render => render code execute krke represent krta hai isi ko  Render kahte hai
+
+ @) jab bhi ham kuch bhi update karenge to kuch bhi add karenge to Render apne aap RUN ho jata hai
+
+ @) props ,state or data ke update hi ye apne aap update ho jata hai
+
+ @) wihtout render ke class component run nhi krta hai
+
+
+ 
+
